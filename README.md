@@ -1,6 +1,6 @@
 # Library System Project
 
-This project is a simple library system that allows users to interact with a collection of books. The system provides a user interface with rotating book shelves, each representing a book in the library.
+This project is a simple library system that allows users to interact with a collection of books. The system provides a user interface with book details and basic functionalities.
 
 ## Technologies Used
 
@@ -25,9 +25,8 @@ This project is a simple library system that allows users to interact with a col
 
 ## Features
 
-- View a rotating collection of books on the main page.
-- Each book shelf represents a book with details such as name, author, and number of pages.
-- Interact with the book shelves by dragging and rotating them.
+- View a list of books on the main page.
+- Each book is displayed with details such as name, author, and number of pages.
 - Add new books to the library via a simple form.
 - Borrow books by clicking on the corresponding link.
 
